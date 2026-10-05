@@ -1,4 +1,4 @@
-📊 WhatsApp Chat Analyzer
+#WhatsApp Chat Analyzer
 ### Prerequisites
 
 Make sure you have the following installed:
@@ -45,7 +45,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone
+   git clone https://github.com/vivmaurya09/Whatsapp-Chat-Analyzer.git
 2. Navigate to the project directory:
    ``` shell
    cd WhatsAppChatAnalzyer
